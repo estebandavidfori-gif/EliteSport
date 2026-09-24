@@ -186,16 +186,13 @@ Demo accounts are available for local development and testing.
 ---
 
 ## 📸 Screenshots
+<img width="951" height="496" alt="Captura de pantalla 2026-09-22 153153" src="https://github.com/user-attachments/assets/1db3e6da-c812-42a9-9023-e59384f72557" />
 
-Screenshots of the application can be added here to showcase:
+<img width="848" height="449" alt="Captura de pantalla 2026-09-19 153344" src="https://github.com/user-attachments/assets/510f5c6c-c79c-4738-8182-cd2abd091fdf" />
 
-* Login
-* Administrator dashboard
-* Sports management
-* Teams
-* Athletes
-* Training sessions
-* Tournaments
+<img width="956" height="496" alt="Captura de pantalla 2026-09-18 122934" src="https://github.com/user-attachments/assets/7d20231f-7928-412a-9fa8-63464e584529" />
+
+
 
 ---
 
