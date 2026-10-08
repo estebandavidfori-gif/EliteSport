@@ -212,8 +212,9 @@ The main goals of EliteSport were to:
 
 ## 👨‍💻 Contributors
 
-* **Esteban Fori**
-* **davidfori135-spec**
+* **Esteban Fori Zapata**
+**Kevin Delgado Tovar**
+  **Sebastian Gonzales Imbacuan**
 
 ---
 
